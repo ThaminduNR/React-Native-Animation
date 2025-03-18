@@ -1,4 +1,4 @@
-import CircularSlider from "@/app-example/components/CircularSlider";
+import CircularSlider from "@/components/CircularSlider";
 import { Text, View } from "react-native";
 
 export default function Index() {
